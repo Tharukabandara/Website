@@ -1,0 +1,33 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 52.43%,rgba(172,172,172,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 52.43%,rgba(172,172,172,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 52.43%,rgba(172,172,172,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 52.43%,rgba(172,172,172,1.00) 100%);
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(177,177,177,1.00) 59.79%);
+    background-image: -moz-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(177,177,177,1.00) 59.79%);
+    background-image: -o-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(177,177,177,1.00) 59.79%);
+    background-image: linear-gradient(180deg,rgba(172,172,172,1.00) 0.00%,rgba(177,177,177,1.00) 59.79%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #373737;
+    text-transform: uppercase;
+}
+.card.col-md-12 .card-body .btn.btn-primary {
+    background-color: rgba(174,63,65,1.00);
+}
+.row .col-md-4 .card.col-md-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 51.61%,rgba(172,172,172,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 51.61%,rgba(172,172,172,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 51.61%,rgba(172,172,172,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 51.61%,rgba(172,172,172,1.00) 100%);
+}
+.container #accordion1 .card {
+    background-image: -webkit-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 50.36%,rgba(172,172,172,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 50.36%,rgba(172,172,172,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 50.36%,rgba(172,172,172,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(172,172,172,1.00) 0%,rgba(255,255,255,1.00) 50.36%,rgba(172,172,172,1.00) 100%);
+}
